@@ -262,5 +262,6 @@ Keep your agent up-to-date with the latest improvements from Nous Research:
 ## 📝 Credits & Attribution
 
 *   **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** — Powerful Agentic core created by [Nous Research](https://github.com/NousResearch).
+*   **[Hermes USB Portable](https://github.com/techjarves/hermes-usb-portable)** — Original source base repository for this portable launcher.
 *   **[python-build-standalone](https://github.com/indygreg/python-build-standalone)** — Portable Python interpreter compilation.
 *   **[uv](https://github.com/astral-sh/uv)** — Blazing fast package installer and resolver.

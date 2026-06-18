@@ -260,5 +260,6 @@ Jaga agar agen Anda tetap terperbarui dengan perbaikan terbaru dari Nous Researc
 ## 📝 Kredit & Atribusi
 
 *   **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** — Core Agen AI yang dikembangkan oleh [Nous Research](https://github.com/NousResearch).
+*   **[Hermes USB Portable](https://github.com/techjarves/hermes-usb-portable)** — Repositori sumber dasar untuk peluncur portabel ini.
 *   **[python-build-standalone](https://github.com/indygreg/python-build-standalone)** — Kompilasi interpreter Python mandiri/portabel.
 *   **[uv](https://github.com/astral-sh/uv)** — Pemasang dan penyelesai ketergantungan paket Python yang sangat cepat.
