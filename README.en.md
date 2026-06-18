@@ -39,6 +39,8 @@
 
 ## ⚡ Quick Start
 
+Download the file https://github.com/srpcomcloud/srpcomhermes/blob/main/SRPCOM%20HERMES%20PORTABLE.rar, extract it in your folder/flashdrive and click `SRPCOMHERMES.bat`.
+
 Get SRPCOM HERMES PORTABLE running in seconds depending on your operating system:
 
 ### Windows (10 / 11)
